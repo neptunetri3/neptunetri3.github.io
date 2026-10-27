@@ -1,10 +1,10 @@
+# Tri
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:051a0d,30:0a3d1f,60:145a2e,100:1b6b38&height=260&section=header&text=Tri&fontSize=50&fontColor=c8f0d8&animation=fadeIn&fontAlignY=45&desc=Mechatronics%20•%20Embedded%20Systems%20•%20Neptune&descAlignY=65&descSize=18&descColor=6dbe8c" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=3ECF74&center=true&vCenter=true&width=650&lines=Arduino+and+embedded+systems;SwiftUI+and+hardware+dashboards;Python+%2B+TypeScript;Homelab+stuff;Building+things+that+usually+work)](https://github.com/Bhishy3)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:051a0d,30:0a3d1f,60:145a2e,100:1b6b38&height=260&section=header&text=Tri&fontSize=50&fontColor=c8f0d8&animation=fadeIn&fontAlignY=25&fontAlignX=50&title=Tri" width="100%" />
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=3ECF74&center=true&vCenter=true&width=650&lines=Arduino+and+embedded+systems;SwiftUI+and+creative+tech;Python+automation+and+prototypes;Hardware+experiments+and+curiosity)](https://github.com/Bhishy3)
 
 ---
 
@@ -66,23 +66,15 @@ A mix of embedded systems, hardware experiments, SwiftUI applications, dashboard
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhishy3&show_icons=true&hide_border=true&bg_color=00000000&title_color=3ecf74&icon_color=3ecf74&text_color=a8e6c0"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhishy3&show_icons=true&hide_border=true&bg_color=00000000&title_color=3ecf74&icon_color=3ecf74&text_color=a8e6c0" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhishy3&layout=compact&hide_border=true&bg_color=00000000&title_color=3ecf74&text_color=a8e6c0"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhishy3&layout=compact&hide_border=true&bg_color=00000000&title_color=3ecf74&text_color=a8e6c0" />
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Bhishy3&hide_border=true&background=00000000&ring=3ecf74&fire=3ecf74&currStreakLabel=3ecf74&sideLabels=a8e6c0&currStreakNum=c8f0d8&sideNums=c8f0d8"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhishy3&bg_color=00000000&color=3ecf74&line=3ecf74&point=a8e6c0&area=true&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Bhishy3&hide_border=true&background=00000000&ring=3ecf74&fire=3ecf74&currStreakLabel=3ecf74&sideLabels=a8e6c0&currStreakNum=c8f0d8&sideNums=a8e6c0&dates=3ecf74" />
 
 </div>
 
@@ -90,6 +82,14 @@ A mix of embedded systems, hardware experiments, SwiftUI applications, dashboard
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b6b38,50:145a2e,100:051a0d&height=120&section=footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhishy3&bg_color=00000000&color=3ecf74&line=3ecf74&point=a8e6c0&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b6b38,50:145a2e,100:051a0d&height=120&section=footer" width="100%" />
 
 </div>
